@@ -1,0 +1,16 @@
+*__pycache__/
+env/
+venv/
+.env
+.private/
+.DS_Store
+pyvenv.cfg
+/bin/
+/lib/
+/include/
+/.vscode
+*google-credentials.json
+*docker-compose.override.*
+.idea
+*.xlsx
+tmp.py
